@@ -89,7 +89,7 @@ chmod +x ngopitruk
     "
   >
     <img 
-      src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcapy_happy.603c7293.svg&w=384&q=75" 
+      src="https://i.ibb.co.com/LgDWD86/01c81f8c-18c9-47d7-b7ad-c04058016626-225x225.png" 
       height="35" 
       alt="Saweria Logo" 
       style="margin-right: 10px;"
